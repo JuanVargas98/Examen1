@@ -1,0 +1,28 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.btn-primario {
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.5px;
+    
+    background: linear-gradient(180deg, rgba(0, 153, 0, 0) 50%, rgba(34, 34, 34, 0.1) 100%), #00FF84;
+    border: 0px;
+    border-radius: 14px;
+    flex-direction: row;
+    align-items: center;
+    padding: 14px 16px;
+   
+    text-rendering: optimizeLegibility !important;
+    width: 200px;
+    margin-left: 40px;
+  }
